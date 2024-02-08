@@ -10,25 +10,12 @@ description = "Notes & Meditations of a Product builder"
 # Change the default theme to be use when building the site with Hugo
 # omit_header_text = true
 
-[params]
-# colortheme = "dark" # dark, light, white, or classic 
-mode = "light"
-mainSection = "posts"
-mainSectionTitle = "Posts"
-showAllPostsOnHomePage = true
-body_classes = "georgia bg-near-white"
 
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 # languageCode = "en"
 # language name ["English", "简体中文", "Français", "Polski", ...]
 languageName = "English"
-
-# Author config
-# [author]
-#  name = "ari"
-#  email = ""
-#  link = ""
 
 # Menu config
 [menu]
@@ -100,3 +87,5 @@ paginate = 100
 
 # Number of characters to show in summary.
 # summaryLength = 20
+
+
