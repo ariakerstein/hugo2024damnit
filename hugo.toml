@@ -1,0 +1,102 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Making Principles'
+theme = 'maverick'
+# baseURL = "/"
+# title = "Ari's blog"
+profilePicture = "/images/ari-shaved.png"
+copyright = "© Ari Akerstein 2006"
+description = "Notes & Meditations of a Product builder"
+# Change the default theme to be use when building the site with Hugo
+# omit_header_text = true
+
+[params]
+# colortheme = "dark" # dark, light, white, or classic 
+mode = "light"
+mainSection = "posts"
+mainSectionTitle = "Posts"
+showAllPostsOnHomePage = true
+body_classes = "georgia bg-near-white"
+
+
+# language code ["en", "zh-CN", "fr", "pl", ...]
+# languageCode = "en"
+# language name ["English", "简体中文", "Français", "Polski", ...]
+languageName = "English"
+
+# Author config
+# [author]
+#  name = "ari"
+#  email = ""
+#  link = ""
+
+# Menu config
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+  [[menu.main]]
+    weight = 2
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+  [[menu.main]]
+    weight = 3
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "About"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
+    title = ""
+  [[menu.main]]
+    weight = 5
+    identifier = "Chemolog"
+    pre = ""
+    post = ""
+    name = "Chemolog"
+    url = "/chemolog/"
+    title = ""
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+
+
+
+# Enable syntax highlighting.
+# pygmentsstyle = "solarized-dark"
+# pygmentscodefences = true
+# pygmentscodefencesguesssyntax = true
+
+# Your Google analytics code.
+googleAnalytics = "UA-186170749-1"
+# Your Disqus sortname.
+# disqusShortname = "localhost"
+
+# Number of posts to show in recent posts list (Optional). Defaults to 30.
+paginate = 100
+
+# Number of characters to show in summary.
+# summaryLength = 20
