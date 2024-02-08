@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Making Principles'
-theme = 'maverick'
+theme = 'ananke'
 # baseURL = "/"
 # title = "Ari's blog"
 profilePicture = "/images/ari-shaved.png"
@@ -81,6 +81,9 @@ languageName = "English"
 googleAnalytics = "UA-186170749-1"
 # Your Disqus sortname.
 # disqusShortname = "localhost"
+[build]
+    command = "hugo"
+    publish = "public"
 
 # Number of posts to show in recent posts list (Optional). Defaults to 30.
 paginate = 100
