@@ -1,7 +1,7 @@
 baseURL = 'https://makingprinciples.com/'
 languageCode = 'en-us'
 title = 'Making Principles'
-theme = 'maverick'
+theme = 'ananke'
 # baseURL = "/"
 # title = "Making Principles"
 profilePicture = "/images/ari-shaved.png"
@@ -9,7 +9,6 @@ copyright = "© Ari Akerstein 2006"
 description = "Notes & Meditations of a Product builder"
 # Change the default theme to be use when building the site with Hugo
 # omit_header_text = true
-HUGO_VERSION = "1.0.0"
 
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
