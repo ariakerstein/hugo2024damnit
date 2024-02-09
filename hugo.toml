@@ -9,7 +9,7 @@ copyright = "© Ari Akerstein 2006"
 description = "Notes & Meditations of a Product builder"
 # Change the default theme to be use when building the site with Hugo
 # omit_header_text = true
-
+HUGO_VERSION = "1.0.0"
 
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
@@ -86,7 +86,7 @@ googleAnalytics = "UA-186170749-1"
     publish = "public"
 
 # Number of posts to show in recent posts list (Optional). Defaults to 30.
-paginate = 100
+# paginate = 100
 
 # Number of characters to show in summary.
 # summaryLength = 20
