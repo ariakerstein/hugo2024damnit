@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https:makingprinciples.com/'
 languageCode = 'en-us'
 title = 'Making Principles'
 theme = 'ananke'
@@ -81,9 +81,9 @@ languageName = "English"
 googleAnalytics = "UA-186170749-1"
 # Your Disqus sortname.
 # disqusShortname = "localhost"
-
-command = "hugo"
-publish = "public" 
+# [build]
+#   command = "hugo"
+#   publish = "public" 
 
 # Number of posts to show in recent posts list (Optional). Defaults to 30.
 # paginate = 100
