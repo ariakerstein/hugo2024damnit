@@ -1,7 +1,7 @@
-baseURL = "www.makingprinciples.com"
+baseURL = 'https://makingprinciples.com/'
 languageCode = 'en-us'
 title = 'Making Principles'
-theme = 'ananke'
+theme = 'maverick'
 # baseURL = "/"
 # title = "Making Principles"
 profilePicture = "/images/ari-shaved.png"
