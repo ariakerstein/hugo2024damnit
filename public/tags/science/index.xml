@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>science on Making Principles</title>
+    <link>/tags/science/</link>
+    <description>Recent content in science on Making Principles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Ari Akerstein 2006</copyright>
+    <lastBuildDate>Wed, 13 Feb 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leaving Science</title>
+      <link>/posts/leavingscience/</link>
+      <pubDate>Wed, 13 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>/posts/leavingscience/</guid>
+      <description>I went into science to remain a child. Where else can exploration for its own sake be considered a value? I did an MS in molecular biology and research in mathematics. I wanted to establish a foundation for understanding how things work. In a sense I wanted to learn how to learn. But I also worked on cool questions like:&#xA;How do epigenetic modifications influence evolution? why do anesthetics affect virtually all life forms like a magic light switch on consciousness?</description>
+    </item>
+    <item>
+      <title>Comparing Sevoflurance with a sister anesthetic</title>
+      <link>/posts/comparisonofsevoflurane/</link>
+      <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>/posts/comparisonofsevoflurane/</guid>
+      <description>Here&amp;rsquo;s a draft paper I wrote (and never got around to submitting) while working as a (molecular biologist) researcher at UCSF: Comparing Sevoflurane with a Sister Anesthetic, CHF2OCH(CF3)2 in Rats. The focus was exploring the possibility of brain metabolite formation in response to inhaled anesthetics. This topic matters since there is a link between exposure to these agents and cognitive impairment in children. Could we perhaps construct anesthetics without those negative effects?</description>
+    </item>
+    <item>
+      <title>DNA folding forces; journal club presentation</title>
+      <link>/posts/bioinformatics-investigating-the-forces-involved-in-dna-folding/</link>
+      <pubDate>Fri, 04 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>/posts/bioinformatics-investigating-the-forces-involved-in-dna-folding/</guid>
+      <description>Notes from a journal club presentation I gave to the Mathematics, Chemistry and Molecular Biology faculty in 2007. This was an elegant study, called on the effect of Force on Mononucleosomal Dynamics. Basically the investigators used optical tweezers to perturb DNA to see about the coiling forces involved in wrapping and unwrapping DNA. This is important since DNA - which is often coiled or otherwise folded - must be accessed with very specific timing for things like genes to be transcribed to make functional proteins out of them.</description>
+    </item>
+    <item>
+      <title>Using siRNA to understand inhaled anesthetics</title>
+      <link>/posts/using-sirna-to-understand-inhaled-anesthetic-action-experiment-design/</link>
+      <pubDate>Sat, 26 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>/posts/using-sirna-to-understand-inhaled-anesthetic-action-experiment-design/</guid>
+      <description>An Experimental Design I wrote as a researcher at UCSF proposing the use of small interfering RNA (siRNA) to elucidate the mechanisms by which inhaled anesthetics work. More specifically the idea is to infuse siRNA into the lumbar region of the spinal cord of rat to perturb the receptors thought to be responsible for inducing general anesthesia (e.g., Glycine, NMDA, etc.). siRNA experiment proposal&#xA;The main benefit of this approach is that it bypasses the need to engineer genetic mutant strains (say, of mice - which we also did).</description>
+    </item>
+    <item>
+      <title>Annotating the Drosophila Genome</title>
+      <link>/posts/bioinformatics-annotating-drosophila-genome/</link>
+      <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>/posts/bioinformatics-annotating-drosophila-genome/</guid>
+      <description>Here’s a Bioinformatics Study annotating the Drosophila Erecta genome as part of a concerted effort to annotate the entire genome. What was really cool about this was tracing the branch points between species - you can literally see the differences at a genetic level (e.g., introns, or non-coding snippets of DNA).&#xA;The study was spearheaded by Washington U. in partnership with SFSU and I participated as part of a graduate class I took in 2007.</description>
+    </item>
+  </channel>
+</rss>

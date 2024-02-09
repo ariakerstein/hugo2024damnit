@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>family on Making Principles</title>
+    <link>/tags/family/</link>
+    <description>Recent content in family on Making Principles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Ari Akerstein 2006</copyright>
+    <lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/family/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lua Turns 3 years old</title>
+      <link>/posts/lua-turns-3/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/posts/lua-turns-3/</guid>
+      <description>Yesterday Lua turned 3 years old. She helped me get through my dark days. She still does. And her ability to navigate people (already!) amazes me. She has such a giant personality. Definitely a proud daddy. I’ve had this habit for a long time where I write down my thought process for decisions and big events. I’ll periodically review them to either understand flaws/gaps in my thinking with the benefit of hindsight, or pat myself on the back for my prescience (not frequent, but it sometimes happens).</description>
+    </item>
+  </channel>
+</rss>

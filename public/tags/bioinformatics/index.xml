@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bioinformatics on Making Principles</title>
+    <link>/tags/bioinformatics/</link>
+    <description>Recent content in bioinformatics on Making Principles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Ari Akerstein 2006</copyright>
+    <lastBuildDate>Tue, 10 Nov 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Annotating the Drosophila Genome</title>
+      <link>/posts/bioinformatics-annotating-drosophila-genome/</link>
+      <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>/posts/bioinformatics-annotating-drosophila-genome/</guid>
+      <description>Here’s a Bioinformatics Study annotating the Drosophila Erecta genome as part of a concerted effort to annotate the entire genome. What was really cool about this was tracing the branch points between species - you can literally see the differences at a genetic level (e.g., introns, or non-coding snippets of DNA).&#xA;The study was spearheaded by Washington U. in partnership with SFSU and I participated as part of a graduate class I took in 2007.</description>
+    </item>
+  </channel>
+</rss>

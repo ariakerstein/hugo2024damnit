@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>log on Making Principles</title>
+    <link>/tags/log/</link>
+    <description>Recent content in log on Making Principles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Ari Akerstein 2006</copyright>
+    <lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/log/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making my Bed</title>
+      <link>/posts/build-a-bed/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/posts/build-a-bed/</guid>
+      <description>I&amp;rsquo;ve heard people say it&amp;rsquo;s good to make your bed. I figured I&amp;rsquo;d take this advice literally. So, I made my bed.</description>
+    </item>
+  </channel>
+</rss>

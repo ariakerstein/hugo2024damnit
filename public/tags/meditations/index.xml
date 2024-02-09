@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meditations on Making Principles</title>
+    <link>/tags/meditations/</link>
+    <description>Recent content in meditations on Making Principles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Ari Akerstein 2006</copyright>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/meditations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plants, in general</title>
+      <link>/posts/plants-in-general/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/posts/plants-in-general/</guid>
+      <description>The frisbee veers into the brush. Lua and I walk over. As we crouch over the planter box I look down and notice green protruding jaws cup two tablespoons of water. As I inch closer, I notice white spots, patterns and tiny teeth along the edges of the leaves.&#xA;I’m somewhat horrified, not by the threat of frozen violence, but rather by my lack of awareness about plants. I love nature.</description>
+    </item>
+    <item>
+      <title>Goodbye Grandma</title>
+      <link>/posts/goodbye-grandma/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/posts/goodbye-grandma/</guid>
+      <description>On the way to seeing her I jotted down the memories, talking point bullets in my notebook: the warm feeling from sitting on the carpet as a kid, the smell of spaghetti and meatballs permeating the air on a random weeknight; coming over for breakfast across the driveway for Kasha; etc. I wanted to sit with her and share those memories, I knew by this point she wasn’t likely to be lucid but still, maybe she could hear/recognize my voice.</description>
+    </item>
+  </channel>
+</rss>
