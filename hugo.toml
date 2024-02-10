@@ -1,4 +1,4 @@
-baseURL = 'www.makingprinciples.com/'
+baseURL = 'https://makingprinciples.com/'
 languageCode = 'en-us'
 title = 'Making Principles'
 theme = 'ananke'
