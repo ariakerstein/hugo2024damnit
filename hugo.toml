@@ -1,8 +1,7 @@
-# baseURL = 'https://makingprinciples.com/'
+baseURL = 'www.makingprinciples.com/'
 languageCode = 'en-us'
 title = 'Making Principles'
 theme = 'ananke'
-# baseURL = "/"
 # title = "Making Principles"
 profilePicture = "/images/ari-shaved.png"
 copyright = "© Ari Akerstein 2006"
